@@ -9,7 +9,7 @@ FEATURES
 --------------------------------------------------
 - User can choose Rock, Paper, or Scissors.
 - The computer randomly selects its choice.
-- ASCII art is displayed for both user and computer choices.
+- ASCII art is displayed for both user and computer choices.gi
 - The game announces the winner: user wins, computer wins, or draw.
 
 --------------------------------------------------
@@ -43,30 +43,6 @@ HOW TO RUN
    python myfile.py
 
 4. Follow the on-screen instructions to play.
-
---------------------------------------------------
-SAMPLE OUTPUT
---------------------------------------------------
-Enter 0 for Rock, 1 for Paper, 2 for Scissors: 0
-
-You chose:
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-
-Computer chose:
-     _______
----'    ____)____
-           ______)
-          _______)
-         _______)
----.__________)
-
-You win!
-
 --------------------------------------------------
 AUTHOR
 --------------------------------------------------
