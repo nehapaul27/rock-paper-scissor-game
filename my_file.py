@@ -1,5 +1,6 @@
 import random
-
+import os
+print(os.getcwd())
 rock = '''
     _______
 ---'   ____)
